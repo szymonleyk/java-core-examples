@@ -13,7 +13,7 @@ public class _2_HarvardAdmission {
         System.out.print("What is you result (points): ");
         var points = scanner.nextInt();
 
-        if(points > 258){
+        if (points > 258) {
             System.out.println("Hey! You got into Harvard College!");
         } else {
             System.out.println("Sorry, try again next year :(");

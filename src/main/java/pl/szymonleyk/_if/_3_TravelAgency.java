@@ -13,13 +13,13 @@ public class _3_TravelAgency {
         var budget = scanner.nextInt();
 
         System.out.println("You can go to: ");
-        if(budget > 5_000) {
+        if (budget > 5_000) {
             System.out.println("* London");
         }
-        if(budget > 10_000) {
+        if (budget > 10_000) {
             System.out.println("* Madrid");
         }
-        if(budget > 20_000) {
+        if (budget > 20_000) {
             System.out.println("* Maldives");
         }
     }

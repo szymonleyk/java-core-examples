@@ -12,14 +12,14 @@ public class _1_JobChanger {
         var scanner = new Scanner(System.in);
         var currentCompany = "Amazon";
 
-        System.out.println("I work for "+currentCompany);
+        System.out.println("I work for " + currentCompany);
 
         System.out.print("Will I get salary raise? (Y/N) ");
         var answer = scanner.next();
-        if(answer.equals("N")){
+        if (answer.equals("N")) {
             currentCompany = "Google";
         }
 
-        System.out.println("I work for "+currentCompany);
+        System.out.println("I work for " + currentCompany);
     }
 }
