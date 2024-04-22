@@ -14,7 +14,7 @@ public class _6_Breathalyser {
         System.out.print("How many beers have you drunk? ");
         var drunkBeer = scanner.nextInt();
 
-        if(drunkBeer <= 5) {
+        if (drunkBeer <= 5) {
             System.out.println("OK, you can drive.");
         } else {
             System.out.println("Sorry, you can't drive.");

@@ -17,7 +17,7 @@ public class _5_CarInsurance {
         var productionDate = scanner.nextInt();
 
         System.out.print("Your insurance is equal ");
-        if(productionDate < 1900) {
+        if (productionDate < 1900) {
             System.out.println("5000 euro.");
         } else if (productionDate <= 1950) {
             System.out.println("3500 euro.");
