@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 /**
  * You and your family have a budged dedicated for summer vacation. Let's check where you can go.
+ * 5000 euro -> London
+ * 10000 euro -> Madrid
+ * 20000 euro -> Maldives
  */
 public class _3_TravelAgency {
     public static void main(String[] args) {

@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class _4_CinemaTicketVerification {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
-        var validTickets = List.of("aaa1", "bbb2", "ccc3");
+        var validTickets = List.of("5432", "1234", "5353");
 
         System.out.print("Enter ticket number: ");
         var ticket = scanner.nextLine();

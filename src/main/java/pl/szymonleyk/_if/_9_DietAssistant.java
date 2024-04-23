@@ -7,7 +7,7 @@ import java.util.Scanner;
  * - Monday, Wednesday, Friday, Sunday -> vegetables (odd days)
  * - Tuesday, Thursday, Saturday -> meat (even days)
  * <p>
- * time to prepare:
+ * preparation time:
  * max 5min - Vegetarian1, Meat1, Vegetarian2
  * max 15min - Vegetarian3, Meat2
  * max 20min - Vegetarian4, Meat3, Meat4

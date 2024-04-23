@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 /**
  * Based on the temperature, I will suggest what you can wear.
+ * more than 30 degrees -> shorts and dress
+ * more than 10 degrees -> trousers
+ * otherwise -> jacket
  */
 public class _10_DressAssistant {
     public static void main(String[] args) {
@@ -18,7 +21,7 @@ public class _10_DressAssistant {
         } else if(temperature > 10) {
             System.out.println("trousers.");
         } else {
-            System.out.println("thick jacket!");
+            System.out.println("jacket!");
         }
     }
 }
