@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 /**
  * Test Grade Calculator - this program calculate grade based on number of percentage on the exam
+ * 81-100 : 5
+ * 61-80 : 4
+ * 51-60: 3
+ * 31-50: 2
+ * 0-30 : 1
  */
 public class _8_TestGradeCalculator {
     public static void main(String[] args) {
