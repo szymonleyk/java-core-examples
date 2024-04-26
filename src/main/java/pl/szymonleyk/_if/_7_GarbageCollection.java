@@ -3,7 +3,8 @@ package pl.szymonleyk._if;
 import java.util.Scanner;
 
 /**
- * This program calculate cost of garbage collection depends on the number of family members.
+ * This program calculate cost of garbage collection
+ * depends on the number of family members.
  * 1       : 50euro
  * 2-3     : 120euro
  * 4-more  : 200euro

@@ -3,7 +3,8 @@ package pl.szymonleyk._if;
 import java.util.Scanner;
 
 /**
- * This program ask you, how many beers you have drunk and tell you if can/can't drive car.
+ * This program ask you, how many beers you have drunk
+ * and tell you if can/can't drive car.
  * 0-5 ? YES
  * 5 - more ? NO
  */

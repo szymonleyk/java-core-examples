@@ -3,7 +3,8 @@ package pl.szymonleyk._if;
 import java.util.Scanner;
 
 /**
- * Let's imagine, you work in the Amazon company, and you have a meeting with your manager
+ * Let's imagine, you work in the Amazon company,
+ * and you have a meeting with your manager
  * about salary raise. If he increases your salary, you will stay,
  * otherwise you will change to Google company.
  */

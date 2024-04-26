@@ -3,7 +3,8 @@ package pl.szymonleyk._if;
 import java.util.Scanner;
 
 /**
- * Test Grade Calculator - this program calculate grade based on number of percentage on the exam
+ * Test Grade Calculator - this program calculate grade
+ * based on number of percentage on the exam
  * 81-100 : 5
  * 61-80 : 4
  * 51-60: 3

@@ -3,8 +3,10 @@ package pl.szymonleyk._if;
 import java.util.Scanner;
 
 /**
- * After graduating from high school you have to pass an exam, and based on the result (points) choose the college.
- * Assume, you must have more than 258 point to be admitted to Harvard College.
+ * After graduating from high school you have to pass an exam,
+ * and based on the result (points) choose the college.
+ * Assume, you must have more than 258 point
+ * to be admitted to Harvard College.
  */
 public class _2_HarvardAdmission {
     public static void main(String[] args) {
